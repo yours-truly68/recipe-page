@@ -58,6 +58,7 @@ h2{
     font-family:'Young Serif', serif;
     margin-top:1.3rem;
     margin-bottom:1rem;
+    font-weight:var(--fw-ys);
 }
 
 span{
